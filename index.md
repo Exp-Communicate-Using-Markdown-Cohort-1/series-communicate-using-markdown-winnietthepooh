@@ -6,3 +6,11 @@
 ###### Does an h6 even happen in the real world
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```go
+import "fmt"
+
+func main() {
+  fmt.Println("Hello, World!")
+}
+```
